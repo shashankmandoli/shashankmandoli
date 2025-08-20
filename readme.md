@@ -1,0 +1,14 @@
+<h1 align="center">Hey 👋, I'm Shashank Mandoli</h1>
+<h3 align="center">Passionate about coding, games, and creative problem solving</h3>
+
+## 🚀 About Me
+- 🎮 Exploring **Game Development** with **Godot Engine**  
+- 🌱 Currently improving my **web dev skills** (HTML, CSS, JS)  
+- 🧩 Love solving logic problems in **Java, Python, and C**  
+- 💡 Believer in learning by building — from scripts to full projects  
+- 📚 2025 Goal: Step by step, Achieving short-term goals that pave the way toward my long-term vision. 🎯
+
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,c,git,github,godot" />
+</p>
