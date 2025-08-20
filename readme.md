@@ -12,3 +12,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,java,python,c,git,github,godot" />
 </p>
+
+### ✨ Fun fact
+💻 My best ideas usually strike when I’m debugging at 2 AM with a cup of coffee ☕
