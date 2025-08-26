@@ -14,12 +14,13 @@
 </p>
 
 ## 📊 GitHub Analytics
-<p align='center'>
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shashankmandoli&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashankmandoli&theme=tokyonight&layout=compact&hide_border=true" />
-</a>
+<p align="center">
+  <a href="https://github.com/shashankmandoli">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shashankmandoli&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&show_icons=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashankmandoli&theme=tokyonight&layout=compact&hide_border=true" />
+  </a>
 </p>
+
 
 ### ✨ Fun fact
 💻 My best ideas usually strike when I’m debugging at 2 AM with a cup of coffee ☕
