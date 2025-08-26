@@ -13,5 +13,15 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,java,python,c,git,github,godot,tailwindcss" />
 </p>
 
+## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shashank-Mandoli&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shashank-Mandoli&theme=tokyonight" alt="GitHub Streak" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank-Mandoli&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
+</p>
+
 ### ✨ Fun fact
 💻 My best ideas usually strike when I’m debugging at 2 AM with a cup of coffee ☕
