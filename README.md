@@ -14,9 +14,11 @@
 </p>
 
 ## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shashankmandoli&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashankmandoli&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
+<p align='center'>
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shashankmandoli&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashankmandoli&theme=tokyonight&layout=compact&hide_border=true" />
+</a>
 </p>
 
 ### ✨ Fun fact
