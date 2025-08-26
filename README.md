@@ -15,10 +15,8 @@
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <a href="https://github.com/shashankmandoli">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shashankmandoli&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&show_icons=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashankmandoli&theme=tokyonight&layout=compact&hide_border=true" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=shashankmandoli&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashankmandoli&layout=compact&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" height="180em" />
 </p>
 
 
