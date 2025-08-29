@@ -9,9 +9,27 @@
 - 📚 2025 Goal: Step by step, Achieving short-term goals that pave the way toward my long-term vision. 🎯
 
 ## 🛠️ Tech Stack
+
+### 🌐 Web Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,c,git,github,godot,tailwindcss" />
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
+
+### 💻 Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c" />
+</p>
+
+### 🔧 Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</p>
+
+### 🎮 Frameworks / Engines
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=godot,tailwindcss" />
+</p>
+
 
 ## 📊 GitHub Analytics
 <p align="center">
