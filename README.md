@@ -10,23 +10,23 @@
 
 ## 🛠️ Tech Stack
 
-### 🌐 Web Development
 <p align="center">
+  🌐 <b>Web Development:</b><br>
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-### 💻 Programming Languages
 <p align="center">
+  💻 <b>Programming Languages:</b><br>
   <img src="https://skillicons.dev/icons?i=java,python,c" />
 </p>
 
-### 🔧 Tools & Platforms
 <p align="center">
+  🔧 <b>Tools & Platforms:</b><br>
   <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
-### 🎮 Frameworks / Engines
 <p align="center">
+  🎮 <b>Frameworks / Engines:</b><br>
   <img src="https://skillicons.dev/icons?i=godot,tailwindcss" />
 </p>
 
